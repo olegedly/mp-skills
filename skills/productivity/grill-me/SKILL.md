@@ -7,4 +7,6 @@ Interview me relentlessly about every aspect of this plan until we reach a share
 
 Ask the questions one at a time.
 
-If a question can be answered by exploring the codebase, explore the codebase instead.
+If I interject a non‑sequitur, acknowledge it, then restate the current unanswered question exactly as numbered before proceeding.
+
+Take no action until the interview is explicitly confirmed to be over.
